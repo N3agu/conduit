@@ -1,6 +1,6 @@
 <div align="center">
   <h1>GitC2</h1>
-  <img src="https://raw.githubusercontent.com/N3agu/GitC2/refs/heads/main/Images/github.png" width="256">
+  <img src="./Images/github.png" width="256">
   
   <p><b>An educational Proof of Concept demonstrating how to use the GitHub API as a C2 Server.</b></p>
 </div>
@@ -9,7 +9,7 @@
 **GitC2** is a lightweight, C2 PoC with no dependencies. It demonstrates "Living off the Cloud" techniques by utilizing GitHub Issues as a dead-drop resolver to route commands and exfiltrate outputs.  By leveraging trusted domains (`api.github.com`), this project illustrates how modern evasion techniques bypass traditional network perimeter defenses.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/N3agu/GitC2/refs/heads/main/Images/showcase.png" alt="GitC2 Showcase">
+  <img src="./Images/showcase.png" alt="GitC2 Showcase">
 </div>
 
 ## Key Features
@@ -39,19 +39,19 @@
 <details open>
   <summary><strong>Screenshot of Tasks</strong></summary>
   
-  ![](https://raw.githubusercontent.com/N3agu/GitC2/refs/heads/main/Images/tasks.png)
+  ![](./Images/tasks.png)
 </details>
 
 <details>
   <summary><strong>Screenshot of a Normal Task</strong></summary>
   
-  ![](https://raw.githubusercontent.com/N3agu/GitC2/refs/heads/main/Images/task_normal.png)
+  ![](./Images/task_normal.png)
 </details>
 
 <details>
   <summary><strong>Screenshot of an Encrypted Task</strong></summary>
   
-  ![](https://raw.githubusercontent.com/N3agu/GitC2/refs/heads/main/Images/task_encrypted.png)
+  ![](./Images/task_encrypted.png)
 </details>
 
 ## Setup & Configuration
