@@ -15,4 +15,4 @@ This repository is currently undergoing refactoring to unify individual [modules
 
 ***This project is an educational Proof of Concept designed to demonstrate how legitimate platforms can be utilized by threat actors. It is intended strictly for academic research, defensive analysis, and portfolio demonstration.***
 
-***Using this code to violate Discord's / GitHub's Terms of Service, or deploying it on systems without explicit, mutual, and documented permission, is strictly prohibited. The author assumes no liability and is not responsible for any misuse or damage caused by this program.***
+***Using this code to violate [Discord's ToS](https://discord.com/terms) / [GitHub's ToS](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), or deploying it on systems without explicit, mutual, and documented permission, is strictly prohibited. The author assumes no liability and is not responsible for any misuse or damage caused by this program.***
